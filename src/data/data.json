@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
+    "title": "Los mejores cursos",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
@@ -18,7 +18,7 @@
       "Lorem ipsum dolor"
     ]
   },
-  "Gallery": [
+  "hola": [
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/01-large.jpg",
